@@ -67,7 +67,7 @@ def query_domain_with_retry(domain, api_key, retry_limit=3, delay=1):
 
 def main():
     # 设置 API Key
-    api_key = "69f3204304c23d3de9ac723c59e35b51"  # 请替换为你的爱站 API Key
+    api_key = "your_api"  # 请替换为你的爱站 API Key
     file_path = "url.txt"  # 默认文件路径为当前目录下的 url.txt
 
     try:
